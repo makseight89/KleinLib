@@ -1,0 +1,2 @@
+def KLEIN():
+    print("KLEEEEEIN")

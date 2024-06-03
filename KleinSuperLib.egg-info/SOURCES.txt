@@ -1,0 +1,8 @@
+README.md
+setup.py
+KleinSuperLib/__init__.py
+KleinSuperLib/myfunctions.py
+KleinSuperLib.egg-info/PKG-INFO
+KleinSuperLib.egg-info/SOURCES.txt
+KleinSuperLib.egg-info/dependency_links.txt
+KleinSuperLib.egg-info/top_level.txt
